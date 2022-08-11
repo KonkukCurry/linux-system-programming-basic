@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "fcntl.h": "c",
+        "stat.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "mman.h": "c"
+    },
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "clang-diagnostic-int-conversion",
+        "clang-diagnostic-implicit-function-declaration"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}
