@@ -4,7 +4,8 @@
         "stat.h": "c",
         "string.h": "c",
         "stdio.h": "c",
-        "mman.h": "c"
+        "mman.h": "c",
+        "errno.h": "c"
     },
     "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
         "clang-diagnostic-int-conversion",
