@@ -5,7 +5,8 @@
         "string.h": "c",
         "stdio.h": "c",
         "mman.h": "c",
-        "errno.h": "c"
+        "errno.h": "c",
+        "inotify.h": "c"
     },
     "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
         "clang-diagnostic-int-conversion",
